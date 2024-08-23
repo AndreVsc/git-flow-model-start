@@ -8,7 +8,8 @@ public class GitFlowModelApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitFlowModelApplication.class, args);
-		System.out.println("\nPROJETO DEVELOP\n");
+		System.out.println("\nPROJETO RELEASE\n");
+		System.out.println("PROJETO DEVELOP + PROJETO MASTER\n");
 	}
 
 }
